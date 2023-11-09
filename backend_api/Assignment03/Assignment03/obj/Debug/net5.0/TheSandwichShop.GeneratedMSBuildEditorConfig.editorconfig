@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TheSandwichShop
+build_property.ProjectDir = C:\Users\mayur\Desktop\INF354_Assignment3-main\INF354_Assignment3-main\backend_api\Assignment03\Assignment03\
